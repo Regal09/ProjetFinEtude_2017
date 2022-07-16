@@ -1,6 +1,8 @@
 # ProjetFinEtude_2017
 
-Métier : Développeur C# / Projet de fin d'étude : Gestion de ressources humaines
+Métier : Développeur C# 
+
+Projet de fin d'étude : Développement d'une application bureautique de la gestion de ressources humaines
 
 Les tàches réalisées : 
 
